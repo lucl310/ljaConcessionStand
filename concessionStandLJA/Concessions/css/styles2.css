@@ -1,0 +1,41 @@
+body{
+	color: white;
+	text-align: center;
+}
+#headWrapper{
+	border-radius: 100px;
+	/*line-height: 60px;*/
+	height: 100px;
+	width: 85%;
+	background-color:rgb(31,71,122);
+	text-align: center;
+	position: fixed;
+	align-content: center;
+	display: inline-block;
+	margin-left: -42.5%;
+	left: 50%;
+	height: 12.5%;
+	margin-top: -10%;
+}
+#logo{
+	margin-top: .5%;
+	left: 50%;
+	margin-left: -35%;
+	position: fixed;
+}
+#bulldog{
+	margin-top: -4.2%;
+	right: 50%;
+	margin-right: -35%;
+	position: fixed;
+}
+#bodyWrapper{
+	color: black;
+	margin-top: 12.5%;
+}
+#footer{
+}
+#brother{
+	margin-left: 25px;
+	margin-bottom: 5px;
+}
